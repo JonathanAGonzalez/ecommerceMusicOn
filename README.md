@@ -1,4 +1,4 @@
-# Proyecto CoderHouse Javascript
+# Proyecto Ecommerce con Javascript Nativo
 
 ## _Ecommerce Music On🎶_ 😊
 
